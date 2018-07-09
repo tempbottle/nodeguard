@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["tempbottle <tempbottle@gmail.com>"]
 
 [dependencies]
+timer = "0.1"
